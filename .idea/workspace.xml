@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="479db9f9-ef83-454a-b7e8-b7886830261c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/murin/example1/ProgressiveTaxType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/murin/example1/ProgressiveTaxTypeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2PeS0S2h9sbx201clXsrDdp01BW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.murin.example1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ProgressiveTaxTypeTest">
+    <configuration name="ProgressiveTaxTypeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JUnitHomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.murin.example1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.murin.example1" />
+      <option name="MAIN_CLASS_NAME" value="com.murin.example1.ProgressiveTaxTypeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProgressiveTaxTypeTest.should_1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JUnitHomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.murin.example1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.murin.example1" />
+      <option name="MAIN_CLASS_NAME" value="com.murin.example1.ProgressiveTaxTypeTest" />
+      <option name="METHOD_NAME" value="should_1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProgressiveTaxTypeTest.should_calculate_tax_for_values_over_100_000" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JUnitHomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.murin.example1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.murin.example1" />
+      <option name="MAIN_CLASS_NAME" value="com.murin.example1.ProgressiveTaxTypeTest" />
+      <option name="METHOD_NAME" value="should_calculate_tax_for_values_over_100_000" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProgressiveTaxTypeTest.should_calculate_tax_for_values_under_100_000" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JUnitHomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.murin.example1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.murin.example1" />
+      <option name="MAIN_CLASS_NAME" value="com.murin.example1.ProgressiveTaxTypeTest" />
+      <option name="METHOD_NAME" value="should_calculate_tax_for_values_under_100_000" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProgressiveTaxTypeTest.testConcat_validArgument_success" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JUnitHomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.murin.example1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.murin.example1" />
+      <option name="MAIN_CLASS_NAME" value="com.murin.example1.ProgressiveTaxTypeTest" />
+      <option name="METHOD_NAME" value="testConcat_validArgument_success" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ProgressiveTaxTypeTest" />
+        <item itemvalue="JUnit.ProgressiveTaxTypeTest.should_1" />
+        <item itemvalue="JUnit.ProgressiveTaxTypeTest.should_calculate_tax_for_values_under_100_000" />
+        <item itemvalue="JUnit.ProgressiveTaxTypeTest.should_calculate_tax_for_values_over_100_000" />
+        <item itemvalue="JUnit.ProgressiveTaxTypeTest.testConcat_validArgument_success" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="479db9f9-ef83-454a-b7e8-b7886830261c" name="Changes" comment="" />
+      <created>1683815832723</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683815832723</updated>
+    </task>
+    <servers />
+  </component>
+</project>
